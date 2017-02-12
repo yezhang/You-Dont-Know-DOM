@@ -8,3 +8,6 @@ DOM 中的关键问题
 ## DOM在不同浏览器引擎中的实现  
 
 ## BOM基本对象  
+ 
+## 扩展阅读
+- [DOM规范](https://dom.spec.whatwg.org)
